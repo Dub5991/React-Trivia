@@ -65,6 +65,13 @@ Contributions are welcome! Please follow these steps:
     ```
 5. Open a pull request.
 
+## Contact
+
+For any questions, suggestions, or feedback, feel free to reach out:
+
+- **GitHub**: [Dub5991](https://github.com/Dub5991)
+- **Email**: [Snellingsd@icloud.com](mailto:Snellingsd@icloud.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dustin-snellings-8385ba274/)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
